@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Ally-GPT React App
 ## Pictorial
 
 ![Landing Page](https://github.com/hasali-coder/Ally-GPT/blob/main/Screenshots/1.PNG)
